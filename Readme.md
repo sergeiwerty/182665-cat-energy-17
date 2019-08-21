@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Сергей](https://up.htmlacademy.ru/adaptive/17/user/182665).
-* Наставник: `Неизвестно`.
+* Наставник: [Кексобот].
 
 ---
 
